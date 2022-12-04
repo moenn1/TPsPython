@@ -63,7 +63,7 @@ class Commande:
     def Reference(self):
         return self.reference
     
-    @Prix.setter
+    @Reference.setter
     def Reference(self, reference):
         self.reference = int(reference)
         
@@ -92,6 +92,13 @@ class Ligne:
     def Qte(self):
         return self.qte
     
+    
     @Qte.setter
     def Qte(self, qte):
         self.qte = qte
+        
+    
+        
+m = Ligne(12, 1)
+
+print(m.Qte)
