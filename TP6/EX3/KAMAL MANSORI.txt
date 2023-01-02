@@ -1,0 +1,7 @@
+Nom et Prenom: KAMAL MANSORI        ID: 2
+| Maths   | SVT    | PC
+| 13      | 7      | 10.5
+
+Moyenne: 10.166666666666666 
+Moyenne de la classe: 11.299999999999999
+Resultat: Non Valide

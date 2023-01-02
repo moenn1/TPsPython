@@ -1,5 +1,3 @@
-
-
 class Vehicule:
     def __init__(self, type, typeCarburant, capacite, carburantRestant, maxPassagers, passagersActuels):
         self.__type = str(type)

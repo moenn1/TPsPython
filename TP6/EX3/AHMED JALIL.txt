@@ -1,0 +1,7 @@
+Nom et Prenom: AHMED JALIL        ID: 1
+| Maths   | SVT    | PC
+| 12      | 13      | 12.5
+
+Moyenne: 12.5 
+Moyenne de la classe: 11.299999999999999
+Resultat: Valide

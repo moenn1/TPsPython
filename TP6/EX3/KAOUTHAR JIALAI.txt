@@ -1,0 +1,7 @@
+Nom et Prenom: KAOUTHAR JIALAI        ID: 3
+| Maths   | SVT    | PC
+| 10      | 14.5      | 11.5
+
+Moyenne: 12.0 
+Moyenne de la classe: 11.299999999999999
+Resultat: Valide

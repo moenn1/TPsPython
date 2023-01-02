@@ -1,0 +1,7 @@
+Nom et Prenom: HANAN AMRABAT        ID: 5
+| Maths   | SVT    | PC
+| 10      | 7      | 11.5
+
+Moyenne: 9.5 
+Moyenne de la classe: 11.299999999999999
+Resultat: Non Valide

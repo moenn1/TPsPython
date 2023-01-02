@@ -1,0 +1,7 @@
+Nom et Prenom: MOHAMED BOLONA        ID: 8
+| Maths   | SVT    | PC
+| 2      | 17      | 0
+
+Moyenne: 6.333333333333333 
+Moyenne de la classe: 11.299999999999999
+Resultat: Non Valide

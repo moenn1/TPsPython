@@ -1,0 +1,7 @@
+Nom et Prenom: HASSAN TOTO        ID: 6
+| Maths   | SVT    | PC
+| 18.6      | 3      | 12
+
+Moyenne: 11.200000000000001 
+Moyenne de la classe: 11.299999999999999
+Resultat: Non Valide

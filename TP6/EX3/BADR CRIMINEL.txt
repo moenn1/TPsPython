@@ -1,0 +1,7 @@
+Nom et Prenom: BADR CRIMINEL        ID: 7
+| Maths   | SVT    | PC
+| 10      | 14.5      | 8
+
+Moyenne: 10.833333333333334 
+Moyenne de la classe: 11.299999999999999
+Resultat: Non Valide
