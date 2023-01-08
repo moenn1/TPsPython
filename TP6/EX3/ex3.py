@@ -30,3 +30,6 @@ for i in range(len(ids)):
     else:
         ffile.write("Resultat: Non Valide")
     
+    
+    
+#

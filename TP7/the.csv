@@ -1,0 +1,301 @@
+tt.moment,variety,comment,sucre,forme,type,sexe,CSP,Sport,age,frequency,bon.pr.la.sante
+Pas.tt moment,noir,pur,sucré,sachet,t_inconnu,H,cadre moyen,sportif,39,1/jour,bon pr la santé
+Pas.tt moment,noir,lait,Pas.sucré,sachet,t_variable,F,cadre moyen,sportif,45,1/jour,bon pr la santé
+Pas.tt moment,parfumé,pur,Pas.sucré,sachet,t_variable,F,autre actif,sportif,47,+ de 2/jour,bon pr la santé
+Pas.tt moment,parfumé,pur,sucré,sachet,t_variable,H,étudiant,Pas.sportif,23,1/jour,bon pr la santé
+tt moment,parfumé,pur,Pas.sucré,sachet,t_variable,H,employé,sportif,48,+ de 2/jour,Pas.bon pr la santé
+Pas.tt moment,parfumé,pur,Pas.sucré,sachet,t_MDD,H,étudiant,sportif,21,1/jour,bon pr la santé
+Pas.tt moment,parfumé,pur,Pas.sucré,sachet,t_variable,H,cadre sup,sportif,37,3 à 6/sem,bon pr la santé
+Pas.tt moment,noir,lait,Pas.sucré,sachet,t_variable,F,cadre moyen,sportif,36,1 à 2/sem,bon pr la santé
+Pas.tt moment,parfumé,lait,Pas.sucré,sachet+vrac,t_haut_de_gamme,H,cadre sup,sportif,40,+ de 2/jour,Pas.bon pr la santé
+Pas.tt moment,noir,pur,Pas.sucré,sachet+vrac,t_haut_de_gamme,H,cadre sup,Pas.sportif,37,+ de 2/jour,bon pr la santé
+Pas.tt moment,parfumé,pur,Pas.sucré,sachet,t_inconnu,H,cadre moyen,sportif,32,1/jour,Pas.bon pr la santé
+Pas.tt moment,parfumé,pur,sucré,sachet,t_variable,H,cadre moyen,sportif,31,1/jour,Pas.bon pr la santé
+Pas.tt moment,parfumé,lait,Pas.sucré,sachet+vrac,t_MDD,H,cadre sup,sportif,56,1/jour,Pas.bon pr la santé
+Pas.tt moment,noir,lait,sucré,sachet,t_marque_connue,H,non actif,sportif,66,+ de 2/jour,bon pr la santé
+Pas.tt moment,noir,lait,Pas.sucré,sachet,t_haut_de_gamme,H,non actif,sportif,65,+ de 2/jour,bon pr la santé
+Pas.tt moment,parfumé,pur,sucré,vrac,t_haut_de_gamme,H,cadre moyen,sportif,60,+ de 2/jour,bon pr la santé
+Pas.tt moment,noir,pur,Pas.sucré,sachet+vrac,t_haut_de_gamme,H,cadre moyen,sportif,35,+ de 2/jour,Pas.bon pr la santé
+Pas.tt moment,parfumé,pur,Pas.sucré,sachet,t_variable,F,non actif,sportif,72,+ de 2/jour,bon pr la santé
+Pas.tt moment,noir,pur,Pas.sucré,sachet,t_marque_connue,F,non actif,Pas.sportif,73,+ de 2/jour,Pas.bon pr la santé
+Pas.tt moment,noir,pur,Pas.sucré,sachet,t_variable,F,non actif,sportif,80,+ de 2/jour,bon pr la santé
+Pas.tt moment,parfumé,citron,Pas.sucré,sachet,t_variable,F,non actif,Pas.sportif,76,+ de 2/jour,bon pr la santé
+Pas.tt moment,noir,autre,Pas.sucré,sachet+vrac,t_variable,F,non actif,sportif,63,+ de 2/jour,bon pr la santé
+Pas.tt moment,parfumé,pur,Pas.sucré,sachet,t_haut_de_gamme,F,non actif,sportif,55,+ de 2/jour,Pas.bon pr la santé
+Pas.tt moment,noir,pur,Pas.sucré,sachet,t_haut_de_gamme,F,non actif,Pas.sportif,56,+ de 2/jour,bon pr la santé
+tt moment,parfumé,pur,Pas.sucré,vrac,t_marque_connue,F,non actif,Pas.sportif,60,+ de 2/jour,bon pr la santé
+tt moment,parfumé,lait,Pas.sucré,sachet,t_inconnu,F,étudiant,sportif,22,+ de 2/jour,Pas.bon pr la santé
+Pas.tt moment,parfumé,pur,sucré,sachet,t_variable,F,employé,sportif,24,+ de 2/jour,bon pr la santé
+Pas.tt moment,parfumé,pur,Pas.sucré,sachet+vrac,t_variable,F,cadre moyen,sportif,21,+ de 2/jour,bon pr la santé
+Pas.tt moment,noir,pur,Pas.sucré,sachet,t_variable,F,non actif,Pas.sportif,75,1 à 2/sem,Pas.bon pr la santé
+Pas.tt moment,parfumé,pur,sucré,sachet,t_variable,F,non actif,Pas.sportif,37,+ de 2/jour,bon pr la santé
+tt moment,parfumé,pur,Pas.sucré,vrac,t_haut_de_gamme,F,cadre moyen,sportif,32,+ de 2/jour,bon pr la santé
+Pas.tt moment,parfumé,citron,sucré,sachet+vrac,t_variable,F,cadre moyen,Pas.sportif,32,1/jour,Pas.bon pr la santé
+Pas.tt moment,parfumé,pur,sucré,sachet+vrac,t_variable,F,cadre moyen,Pas.sportif,38,3 à 6/sem,Pas.bon pr la santé
+Pas.tt moment,noir,pur,Pas.sucré,sachet,t_MDD,F,non actif,Pas.sportif,50,3 à 6/sem,bon pr la santé
+tt moment,noir,citron,Pas.sucré,sachet+vrac,t_haut_de_gamme,F,employé,sportif,26,1/jour,bon pr la santé
+Pas.tt moment,parfumé,lait,sucré,sachet,t_variable,H,cadre sup,Pas.sportif,39,1/jour,Pas.bon pr la santé
+Pas.tt moment,vert,pur,Pas.sucré,sachet+vrac,t_marque_connue,F,étudiant,sportif,17,1/jour,Pas.bon pr la santé
+Pas.tt moment,vert,pur,Pas.sucré,sachet,t_marque_connue,F,non actif,Pas.sportif,45,+ de 2/jour,bon pr la santé
+tt moment,parfumé,lait,Pas.sucré,sachet,t_marque_connue,F,cadre moyen,Pas.sportif,36,+ de 2/jour,bon pr la santé
+Pas.tt moment,vert,pur,Pas.sucré,sachet+vrac,t_marque_connue,F,cadre moyen,Pas.sportif,37,3 à 6/sem,bon pr la santé
+Pas.tt moment,parfumé,pur,sucré,sachet,t_marque_connue,F,non actif,Pas.sportif,71,+ de 2/jour,bon pr la santé
+Pas.tt moment,vert,pur,Pas.sucré,sachet,t_MDD,F,autre actif,sportif,48,+ de 2/jour,bon pr la santé
+Pas.tt moment,parfumé,lait,Pas.sucré,sachet,t_marque_connue,F,étudiant,Pas.sportif,23,1/jour,bon pr la santé
+Pas.tt moment,noir,autre,Pas.sucré,sachet,t_variable,F,non actif,Pas.sportif,70,+ de 2/jour,bon pr la santé
+Pas.tt moment,parfumé,pur,Pas.sucré,sachet,t_variable,F,étudiant,sportif,19,3 à 6/sem,bon pr la santé
+tt moment,parfumé,lait,sucré,sachet,t_variable,F,étudiant,sportif,25,1/jour,bon pr la santé
+Pas.tt moment,parfumé,pur,sucré,sachet,t_inconnu,F,étudiant,Pas.sportif,22,1 à 2/sem,bon pr la santé
+tt moment,parfumé,pur,Pas.sucré,sachet+vrac,t_variable,F,étudiant,sportif,22,1 à 2/sem,bon pr la santé
+Pas.tt moment,parfumé,pur,Pas.sucré,sachet+vrac,t_MDD,F,employé,Pas.sportif,34,1/jour,Pas.bon pr la santé
+Pas.tt moment,noir,pur,Pas.sucré,sachet+vrac,t_haut_de_gamme,F,étudiant,sportif,23,+ de 2/jour,Pas.bon pr la santé
+Pas.tt moment,parfumé,pur,sucré,sachet+vrac,t_variable,F,employé,sportif,21,1/jour,bon pr la santé
+tt moment,noir,pur,sucré,sachet+vrac,t_haut_de_gamme,F,employé,sportif,37,1 à 2/sem,Pas.bon pr la santé
+Pas.tt moment,parfumé,pur,Pas.sucré,vrac,t_haut_de_gamme,F,non actif,sportif,40,3 à 6/sem,Pas.bon pr la santé
+Pas.tt moment,parfumé,pur,sucré,sachet,t_haut_de_gamme,F,étudiant,sportif,18,1 à 2/sem,bon pr la santé
+tt moment,vert,lait,sucré,sachet,t_marque_connue,F,employé,sportif,18,1/jour,bon pr la santé
+tt moment,parfumé,pur,Pas.sucré,sachet+vrac,t_variable,F,cadre moyen,sportif,56,3 à 6/sem,Pas.bon pr la santé
+Pas.tt moment,vert,pur,Pas.sucré,sachet,t_variable,F,autre actif,Pas.sportif,34,1/jour,bon pr la santé
+Pas.tt moment,parfumé,lait,sucré,sachet+vrac,t_variable,H,autre actif,sportif,32,+ de 2/jour,bon pr la santé
+Pas.tt moment,vert,citron,sucré,sachet+vrac,t_variable,F,cadre sup,Pas.sportif,60,3 à 6/sem,bon pr la santé
+Pas.tt moment,noir,pur,Pas.sucré,sachet+vrac,t_marque_connue,F,non actif,sportif,66,+ de 2/jour,bon pr la santé
+Pas.tt moment,parfumé,pur,Pas.sucré,sachet+vrac,t_variable,F,cadre sup,sportif,49,3 à 6/sem,Pas.bon pr la santé
+tt moment,parfumé,pur,Pas.sucré,vrac,t_marque_connue,F,étudiant,Pas.sportif,28,+ de 2/jour,bon pr la santé
+Pas.tt moment,parfumé,pur,Pas.sucré,sachet,t_variable,F,non actif,Pas.sportif,22,1/jour,bon pr la santé
+tt moment,noir,pur,Pas.sucré,sachet,t_variable,F,cadre moyen,Pas.sportif,35,+ de 2/jour,bon pr la santé
+Pas.tt moment,parfumé,pur,sucré,sachet+vrac,t_variable,F,employé,sportif,25,1 à 2/sem,bon pr la santé
+Pas.tt moment,noir,autre,Pas.sucré,sachet+vrac,t_haut_de_gamme,F,non actif,sportif,62,1/jour,bon pr la santé
+tt moment,parfumé,pur,Pas.sucré,sachet+vrac,t_variable,F,non actif,Pas.sportif,57,+ de 2/jour,bon pr la santé
+Pas.tt moment,parfumé,citron,sucré,sachet+vrac,t_variable,F,étudiant,sportif,20,3 à 6/sem,bon pr la santé
+Pas.tt moment,parfumé,citron,Pas.sucré,sachet,t_variable,F,étudiant,sportif,22,1/jour,Pas.bon pr la santé
+Pas.tt moment,parfumé,pur,sucré,sachet,t_marque_connue,F,employé,sportif,36,1/jour,Pas.bon pr la santé
+Pas.tt moment,parfumé,pur,sucré,sachet,t_variable,H,étudiant,Pas.sportif,19,1 à 2/sem,Pas.bon pr la santé
+tt moment,parfumé,lait,sucré,sachet+vrac,t_variable,H,employé,sportif,24,+ de 2/jour,bon pr la santé
+tt moment,parfumé,lait,sucré,sachet,t_variable,H,étudiant,sportif,22,1 à 2/sem,bon pr la santé
+Pas.tt moment,parfumé,citron,sucré,vrac,t_haut_de_gamme,H,cadre moyen,sportif,28,1/jour,Pas.bon pr la santé
+tt moment,noir,lait,sucré,sachet,t_MDD,H,étudiant,sportif,18,+ de 2/jour,bon pr la santé
+Pas.tt moment,parfumé,lait,sucré,sachet,t_marque_connue,F,cadre moyen,sportif,34,1/jour,Pas.bon pr la santé
+Pas.tt moment,parfumé,pur,Pas.sucré,sachet,t_marque_connue,F,employé,sportif,51,1/jour,Pas.bon pr la santé
+Pas.tt moment,parfumé,lait,Pas.sucré,sachet+vrac,t_marque_connue,F,employé,sportif,55,+ de 2/jour,bon pr la santé
+Pas.tt moment,parfumé,pur,sucré,sachet,t_variable,F,non actif,sportif,76,1/jour,bon pr la santé
+Pas.tt moment,parfumé,pur,Pas.sucré,sachet+vrac,t_marque_connue,F,étudiant,sportif,22,1/jour,bon pr la santé
+tt moment,noir,pur,Pas.sucré,sachet,t_haut_de_gamme,F,cadre moyen,sportif,50,+ de 2/jour,bon pr la santé
+Pas.tt moment,parfumé,pur,sucré,vrac,t_MDD,F,étudiant,sportif,25,1 à 2/sem,Pas.bon pr la santé
+tt moment,parfumé,lait,sucré,sachet,t_haut_de_gamme,F,autre actif,sportif,44,1/jour,bon pr la santé
+Pas.tt moment,parfumé,pur,Pas.sucré,sachet,t_variable,F,étudiant,Pas.sportif,19,3 à 6/sem,Pas.bon pr la santé
+Pas.tt moment,parfumé,citron,sucré,sachet,t_MDD,F,étudiant,sportif,20,3 à 6/sem,Pas.bon pr la santé
+tt moment,parfumé,lait,sucré,sachet,t_inconnu,F,étudiant,sportif,19,3 à 6/sem,bon pr la santé
+tt moment,parfumé,pur,sucré,sachet+vrac,t_haut_de_gamme,F,étudiant,sportif,19,+ de 2/jour,bon pr la santé
+tt moment,parfumé,lait,sucré,sachet,t_MDD,F,étudiant,Pas.sportif,17,1 à 2/sem,bon pr la santé
+tt moment,parfumé,lait,Pas.sucré,sachet,t_variable,H,cadre sup,sportif,51,1/jour,bon pr la santé
+tt moment,parfumé,pur,sucré,sachet+vrac,t_inconnu,H,cadre sup,sportif,50,1 à 2/sem,Pas.bon pr la santé
+Pas.tt moment,noir,lait,sucré,sachet+vrac,t_marque_connue,H,étudiant,sportif,20,1/jour,bon pr la santé
+Pas.tt moment,parfumé,pur,sucré,sachet+vrac,t_variable,H,cadre sup,sportif,25,1 à 2/sem,Pas.bon pr la santé
+tt moment,noir,lait,Pas.sucré,sachet,t_haut_de_gamme,H,non actif,Pas.sportif,78,+ de 2/jour,bon pr la santé
+Pas.tt moment,parfumé,pur,Pas.sucré,vrac,t_haut_de_gamme,H,cadre sup,sportif,49,1 à 2/sem,Pas.bon pr la santé
+tt moment,parfumé,pur,sucré,vrac,t_haut_de_gamme,H,autre actif,Pas.sportif,42,1 à 2/sem,bon pr la santé
+Pas.tt moment,noir,lait,sucré,sachet+vrac,t_variable,H,autre actif,sportif,32,+ de 2/jour,bon pr la santé
+Pas.tt moment,parfumé,lait,sucré,sachet,t_marque_connue,H,employé,sportif,20,1/jour,bon pr la santé
+Pas.tt moment,parfumé,pur,Pas.sucré,sachet,t_variable,H,cadre moyen,Pas.sportif,35,+ de 2/jour,bon pr la santé
+Pas.tt moment,noir,lait,sucré,sachet+vrac,t_variable,H,cadre sup,sportif,33,+ de 2/jour,bon pr la santé
+Pas.tt moment,parfumé,pur,Pas.sucré,vrac,t_haut_de_gamme,H,cadre sup,Pas.sportif,56,1/jour,bon pr la santé
+Pas.tt moment,parfumé,pur,sucré,sachet,t_variable,F,non actif,sportif,33,+ de 2/jour,Pas.bon pr la santé
+Pas.tt moment,vert,pur,sucré,sachet+vrac,t_marque_connue,H,non actif,sportif,29,1/jour,bon pr la santé
+tt moment,parfumé,lait,sucré,sachet+vrac,t_marque_connue,F,cadre moyen,Pas.sportif,43,+ de 2/jour,bon pr la santé
+tt moment,parfumé,lait,sucré,sachet,t_marque_connue,F,étudiant,sportif,22,+ de 2/jour,Pas.bon pr la santé
+tt moment,parfumé,pur,sucré,sachet,t_bas_de_gamme,F,employé,Pas.sportif,20,+ de 2/jour,bon pr la santé
+Pas.tt moment,parfumé,pur,sucré,sachet,t_marque_connue,H,étudiant,Pas.sportif,27,+ de 2/jour,Pas.bon pr la santé
+Pas.tt moment,parfumé,pur,sucré,sachet,t_marque_connue,F,étudiant,Pas.sportif,22,+ de 2/jour,Pas.bon pr la santé
+tt moment,parfumé,pur,sucré,sachet+vrac,t_marque_connue,F,étudiant,Pas.sportif,23,1/jour,bon pr la santé
+Pas.tt moment,parfumé,pur,Pas.sucré,sachet,t_marque_connue,F,ouvrier,sportif,46,1/jour,bon pr la santé
+tt moment,parfumé,pur,Pas.sucré,sachet+vrac,t_variable,F,cadre sup,sportif,35,+ de 2/jour,bon pr la santé
+Pas.tt moment,parfumé,citron,Pas.sucré,sachet,t_marque_connue,F,autre actif,Pas.sportif,28,1/jour,bon pr la santé
+tt moment,parfumé,pur,Pas.sucré,sachet+vrac,t_variable,F,étudiant,Pas.sportif,20,+ de 2/jour,bon pr la santé
+Pas.tt moment,parfumé,pur,sucré,sachet,t_haut_de_gamme,H,non actif,Pas.sportif,71,1/jour,Pas.bon pr la santé
+Pas.tt moment,parfumé,pur,sucré,sachet,t_MDD,H,cadre moyen,Pas.sportif,28,+ de 2/jour,Pas.bon pr la santé
+Pas.tt moment,parfumé,pur,sucré,sachet,t_marque_connue,F,étudiant,sportif,23,+ de 2/jour,Pas.bon pr la santé
+Pas.tt moment,parfumé,pur,Pas.sucré,sachet,t_inconnu,F,employé,Pas.sportif,21,1/jour,Pas.bon pr la santé
+Pas.tt moment,parfumé,citron,sucré,sachet,t_marque_connue,H,autre actif,Pas.sportif,19,1 à 2/sem,Pas.bon pr la santé
+Pas.tt moment,parfumé,pur,sucré,sachet,t_variable,H,employé,sportif,27,1/jour,bon pr la santé
+tt moment,parfumé,pur,Pas.sucré,sachet+vrac,t_marque_connue,H,étudiant,Pas.sportif,25,+ de 2/jour,bon pr la santé
+Pas.tt moment,parfumé,pur,Pas.sucré,sachet,t_haut_de_gamme,F,non actif,sportif,71,1/jour,bon pr la santé
+Pas.tt moment,parfumé,pur,Pas.sucré,sachet,t_marque_connue,F,étudiant,sportif,21,1/jour,bon pr la santé
+tt moment,parfumé,citron,sucré,sachet+vrac,t_marque_connue,F,employé,Pas.sportif,23,+ de 2/jour,bon pr la santé
+tt moment,parfumé,pur,sucré,sachet,t_marque_connue,H,étudiant,sportif,22,3 à 6/sem,Pas.bon pr la santé
+tt moment,parfumé,pur,sucré,sachet,t_marque_connue,H,non actif,Pas.sportif,22,1 à 2/sem,bon pr la santé
+Pas.tt moment,parfumé,lait,sucré,sachet,t_marque_connue,F,étudiant,Pas.sportif,23,+ de 2/jour,Pas.bon pr la santé
+Pas.tt moment,parfumé,pur,sucré,sachet,t_MDD,F,étudiant,sportif,21,1 à 2/sem,Pas.bon pr la santé
+Pas.tt moment,noir,autre,Pas.sucré,sachet+vrac,t_variable,F,cadre sup,Pas.sportif,42,+ de 2/jour,bon pr la santé
+Pas.tt moment,noir,pur,Pas.sucré,sachet+vrac,t_MDD,F,employé,Pas.sportif,23,1/jour,bon pr la santé
+Pas.tt moment,parfumé,pur,Pas.sucré,sachet,t_marque_connue,F,employé,Pas.sportif,52,1/jour,bon pr la santé
+tt moment,parfumé,lait,Pas.sucré,sachet,t_marque_connue,H,cadre sup,Pas.sportif,54,1 à 2/sem,Pas.bon pr la santé
+tt moment,parfumé,pur,Pas.sucré,sachet,t_marque_connue,F,employé,Pas.sportif,33,1/jour,bon pr la santé
+tt moment,noir,pur,Pas.sucré,sachet,t_marque_connue,H,cadre sup,Pas.sportif,37,1/jour,bon pr la santé
+tt moment,parfumé,citron,sucré,sachet+vrac,t_variable,H,étudiant,sportif,29,1/jour,bon pr la santé
+tt moment,noir,citron,sucré,sachet,t_MDD,H,non actif,Pas.sportif,66,3 à 6/sem,bon pr la santé
+tt moment,noir,autre,Pas.sucré,sachet,t_marque_connue,F,cadre moyen,sportif,47,+ de 2/jour,bon pr la santé
+Pas.tt moment,parfumé,citron,sucré,sachet,t_marque_connue,F,employé,Pas.sportif,45,+ de 2/jour,bon pr la santé
+Pas.tt moment,parfumé,citron,sucré,sachet,t_MDD,F,employé,Pas.sportif,54,1/jour,bon pr la santé
+tt moment,parfumé,pur,Pas.sucré,sachet,t_variable,F,étudiant,sportif,19,+ de 2/jour,bon pr la santé
+tt moment,parfumé,pur,Pas.sucré,sachet,t_marque_connue,F,étudiant,sportif,17,1 à 2/sem,bon pr la santé
+tt moment,parfumé,pur,Pas.sucré,sachet,t_marque_connue,F,étudiant,sportif,18,1 à 2/sem,bon pr la santé
+Pas.tt moment,parfumé,lait,sucré,sachet,t_marque_connue,F,non actif,Pas.sportif,79,1/jour,bon pr la santé
+tt moment,parfumé,pur,sucré,sachet,t_marque_connue,H,cadre sup,sportif,48,1/jour,bon pr la santé
+tt moment,parfumé,pur,sucré,sachet,t_variable,H,étudiant,sportif,26,1/jour,Pas.bon pr la santé
+tt moment,parfumé,pur,Pas.sucré,sachet,t_marque_connue,F,cadre moyen,sportif,47,3 à 6/sem,bon pr la santé
+Pas.tt moment,parfumé,lait,sucré,sachet,t_variable,H,ouvrier,sportif,30,1/jour,bon pr la santé
+tt moment,parfumé,pur,sucré,sachet,t_marque_connue,H,non actif,Pas.sportif,24,3 à 6/sem,Pas.bon pr la santé
+tt moment,parfumé,pur,Pas.sucré,sachet,t_marque_connue,F,employé,Pas.sportif,29,+ de 2/jour,bon pr la santé
+tt moment,noir,autre,sucré,sachet,t_haut_de_gamme,H,non actif,Pas.sportif,72,3 à 6/sem,bon pr la santé
+Pas.tt moment,parfumé,citron,sucré,sachet,t_inconnu,H,ouvrier,Pas.sportif,41,1/jour,bon pr la santé
+tt moment,parfumé,pur,sucré,sachet,t_MDD,H,étudiant,sportif,18,+ de 2/jour,bon pr la santé
+Pas.tt moment,noir,pur,Pas.sucré,sachet+vrac,t_bas_de_gamme,F,étudiant,sportif,19,+ de 2/jour,Pas.bon pr la santé
+Pas.tt moment,parfumé,pur,Pas.sucré,sachet,t_marque_connue,F,employé,Pas.sportif,55,3 à 6/sem,Pas.bon pr la santé
+Pas.tt moment,noir,pur,Pas.sucré,vrac,t_bas_de_gamme,F,cadre moyen,sportif,47,+ de 2/jour,bon pr la santé
+Pas.tt moment,vert,pur,Pas.sucré,sachet,t_marque_connue,F,cadre moyen,Pas.sportif,49,1/jour,bon pr la santé
+tt moment,parfumé,pur,sucré,sachet,t_marque_connue,F,employé,sportif,30,+ de 2/jour,bon pr la santé
+Pas.tt moment,noir,lait,Pas.sucré,sachet,t_bas_de_gamme,F,autre actif,sportif,45,1/jour,Pas.bon pr la santé
+tt moment,parfumé,pur,sucré,sachet,t_MDD,F,ouvrier,sportif,22,+ de 2/jour,Pas.bon pr la santé
+tt moment,parfumé,pur,sucré,sachet,t_marque_connue,F,non actif,Pas.sportif,18,1 à 2/sem,bon pr la santé
+Pas.tt moment,noir,lait,Pas.sucré,vrac,t_marque_connue,F,non actif,Pas.sportif,36,3 à 6/sem,Pas.bon pr la santé
+Pas.tt moment,noir,pur,Pas.sucré,sachet,t_marque_connue,F,non actif,Pas.sportif,75,3 à 6/sem,bon pr la santé
+Pas.tt moment,noir,pur,sucré,vrac,t_marque_connue,F,non actif,sportif,19,+ de 2/jour,Pas.bon pr la santé
+Pas.tt moment,noir,pur,Pas.sucré,sachet,t_marque_connue,F,employé,Pas.sportif,50,+ de 2/jour,bon pr la santé
+Pas.tt moment,vert,pur,Pas.sucré,sachet+vrac,t_marque_connue,F,non actif,Pas.sportif,60,1/jour,bon pr la santé
+Pas.tt moment,noir,pur,Pas.sucré,sachet+vrac,t_marque_connue,F,employé,sportif,21,1/jour,bon pr la santé
+tt moment,vert,pur,Pas.sucré,vrac,t_haut_de_gamme,F,employé,sportif,45,+ de 2/jour,bon pr la santé
+Pas.tt moment,parfumé,pur,Pas.sucré,sachet,t_marque_connue,F,non actif,Pas.sportif,45,1/jour,Pas.bon pr la santé
+Pas.tt moment,vert,pur,Pas.sucré,sachet,t_marque_connue,F,non actif,Pas.sportif,75,+ de 2/jour,bon pr la santé
+tt moment,noir,citron,Pas.sucré,vrac,t_haut_de_gamme,F,cadre sup,Pas.sportif,53,+ de 2/jour,Pas.bon pr la santé
+Pas.tt moment,parfumé,pur,sucré,sachet,t_variable,F,employé,Pas.sportif,25,1 à 2/sem,bon pr la santé
+Pas.tt moment,parfumé,pur,sucré,sachet,t_variable,F,étudiant,sportif,20,+ de 2/jour,bon pr la santé
+tt moment,parfumé,pur,sucré,vrac,t_haut_de_gamme,F,étudiant,sportif,20,+ de 2/jour,bon pr la santé
+tt moment,parfumé,pur,Pas.sucré,sachet+vrac,t_variable,F,cadre moyen,sportif,30,+ de 2/jour,bon pr la santé
+Pas.tt moment,noir,pur,Pas.sucré,sachet+vrac,t_haut_de_gamme,F,employé,Pas.sportif,51,+ de 2/jour,bon pr la santé
+Pas.tt moment,parfumé,pur,sucré,sachet,t_marque_connue,F,étudiant,Pas.sportif,18,+ de 2/jour,bon pr la santé
+tt moment,parfumé,pur,sucré,sachet,t_variable,F,non actif,Pas.sportif,27,1/jour,bon pr la santé
+tt moment,parfumé,pur,sucré,sachet,t_marque_connue,F,étudiant,sportif,22,+ de 2/jour,bon pr la santé
+Pas.tt moment,parfumé,pur,sucré,sachet,t_marque_connue,F,étudiant,sportif,22,+ de 2/jour,bon pr la santé
+tt moment,parfumé,pur,Pas.sucré,sachet+vrac,t_variable,F,étudiant,sportif,15,+ de 2/jour,bon pr la santé
+Pas.tt moment,parfumé,citron,sucré,sachet,t_marque_connue,F,ouvrier,sportif,20,+ de 2/jour,bon pr la santé
+tt moment,vert,pur,sucré,sachet+vrac,t_marque_connue,F,étudiant,sportif,19,+ de 2/jour,bon pr la santé
+Pas.tt moment,noir,lait,sucré,sachet,t_inconnu,H,autre actif,sportif,45,1/jour,Pas.bon pr la santé
+Pas.tt moment,noir,pur,Pas.sucré,vrac,t_haut_de_gamme,H,cadre moyen,sportif,48,3 à 6/sem,bon pr la santé
+Pas.tt moment,noir,pur,Pas.sucré,sachet,t_MDD,H,cadre sup,sportif,35,1/jour,bon pr la santé
+Pas.tt moment,parfumé,lait,sucré,sachet,t_variable,H,cadre moyen,Pas.sportif,50,1/jour,Pas.bon pr la santé
+tt moment,parfumé,pur,sucré,sachet+vrac,t_variable,H,employé,sportif,25,+ de 2/jour,bon pr la santé
+tt moment,vert,pur,Pas.sucré,sachet,t_variable,H,non actif,Pas.sportif,69,1/jour,bon pr la santé
+Pas.tt moment,vert,pur,sucré,sachet,t_marque_connue,H,non actif,Pas.sportif,70,1/jour,bon pr la santé
+Pas.tt moment,vert,pur,sucré,sachet,t_marque_connue,H,ouvrier,sportif,40,1/jour,bon pr la santé
+tt moment,vert,pur,sucré,sachet+vrac,t_MDD,H,non actif,sportif,21,1 à 2/sem,bon pr la santé
+tt moment,vert,citron,sucré,vrac,t_haut_de_gamme,H,cadre moyen,Pas.sportif,26,+ de 2/jour,bon pr la santé
+Pas.tt moment,parfumé,pur,sucré,sachet+vrac,t_variable,H,ouvrier,sportif,25,3 à 6/sem,Pas.bon pr la santé
+Pas.tt moment,parfumé,pur,sucré,sachet+vrac,t_marque_connue,H,employé,sportif,26,+ de 2/jour,bon pr la santé
+tt moment,parfumé,pur,sucré,sachet,t_bas_de_gamme,H,ouvrier,Pas.sportif,23,1/jour,Pas.bon pr la santé
+Pas.tt moment,parfumé,pur,sucré,sachet+vrac,t_marque_connue,F,étudiant,Pas.sportif,22,1/jour,bon pr la santé
+Pas.tt moment,vert,pur,Pas.sucré,vrac,t_haut_de_gamme,H,autre actif,sportif,45,1/jour,bon pr la santé
+tt moment,noir,pur,Pas.sucré,vrac,t_variable,H,employé,Pas.sportif,36,+ de 2/jour,bon pr la santé
+tt moment,parfumé,citron,sucré,sachet,t_marque_connue,H,employé,sportif,27,1 à 2/sem,bon pr la santé
+Pas.tt moment,parfumé,pur,Pas.sucré,sachet,t_variable,H,ouvrier,sportif,18,1/jour,bon pr la santé
+Pas.tt moment,vert,pur,Pas.sucré,sachet,t_haut_de_gamme,H,non actif,sportif,61,+ de 2/jour,bon pr la santé
+Pas.tt moment,vert,pur,sucré,sachet,t_marque_connue,H,cadre moyen,sportif,56,1/jour,bon pr la santé
+Pas.tt moment,parfumé,citron,sucré,sachet+vrac,t_marque_connue,H,employé,Pas.sportif,25,1/jour,bon pr la santé
+Pas.tt moment,noir,pur,Pas.sucré,vrac,t_haut_de_gamme,H,cadre moyen,sportif,50,1 à 2/sem,bon pr la santé
+Pas.tt moment,parfumé,pur,sucré,sachet+vrac,t_haut_de_gamme,H,non actif,sportif,29,1/jour,bon pr la santé
+Pas.tt moment,parfumé,autre,sucré,sachet,t_marque_connue,H,employé,sportif,20,1 à 2/sem,bon pr la santé
+Pas.tt moment,vert,pur,Pas.sucré,sachet,t_marque_connue,H,autre actif,sportif,32,1/jour,Pas.bon pr la santé
+Pas.tt moment,noir,lait,Pas.sucré,vrac,t_haut_de_gamme,H,non actif,Pas.sportif,71,+ de 2/jour,bon pr la santé
+Pas.tt moment,noir,citron,Pas.sucré,sachet+vrac,t_variable,H,non actif,Pas.sportif,65,1/jour,bon pr la santé
+tt moment,noir,citron,sucré,vrac,t_haut_de_gamme,H,non actif,Pas.sportif,61,1 à 2/sem,Pas.bon pr la santé
+Pas.tt moment,vert,pur,sucré,vrac,t_variable,H,employé,Pas.sportif,27,3 à 6/sem,Pas.bon pr la santé
+Pas.tt moment,parfumé,pur,sucré,sachet,t_variable,H,employé,sportif,21,1/jour,bon pr la santé
+Pas.tt moment,noir,pur,sucré,vrac,t_haut_de_gamme,H,cadre sup,sportif,31,+ de 2/jour,bon pr la santé
+tt moment,vert,lait,Pas.sucré,sachet,t_haut_de_gamme,H,employé,sportif,30,1 à 2/sem,Pas.bon pr la santé
+Pas.tt moment,noir,pur,Pas.sucré,sachet,t_variable,H,étudiant,Pas.sportif,55,3 à 6/sem,Pas.bon pr la santé
+Pas.tt moment,parfumé,pur,sucré,sachet,t_variable,H,employé,sportif,19,+ de 2/jour,bon pr la santé
+Pas.tt moment,parfumé,citron,Pas.sucré,sachet,t_variable,H,non actif,sportif,26,+ de 2/jour,bon pr la santé
+tt moment,noir,lait,sucré,sachet,t_marque_connue,H,cadre sup,sportif,47,+ de 2/jour,bon pr la santé
+Pas.tt moment,noir,pur,Pas.sucré,sachet+vrac,t_variable,H,employé,sportif,28,1 à 2/sem,bon pr la santé
+tt moment,parfumé,pur,Pas.sucré,sachet,t_marque_connue,H,étudiant,sportif,23,+ de 2/jour,bon pr la santé
+Pas.tt moment,parfumé,lait,sucré,sachet,t_marque_connue,H,cadre moyen,sportif,22,1/jour,bon pr la santé
+Pas.tt moment,parfumé,citron,Pas.sucré,vrac,t_haut_de_gamme,H,non actif,sportif,70,1/jour,bon pr la santé
+tt moment,parfumé,citron,Pas.sucré,sachet+vrac,t_marque_connue,H,employé,sportif,27,+ de 2/jour,bon pr la santé
+Pas.tt moment,vert,pur,Pas.sucré,sachet+vrac,t_variable,H,ouvrier,Pas.sportif,27,1/jour,bon pr la santé
+Pas.tt moment,parfumé,pur,sucré,sachet,t_marque_connue,H,employé,sportif,23,3 à 6/sem,bon pr la santé
+tt moment,parfumé,citron,Pas.sucré,sachet+vrac,t_haut_de_gamme,H,cadre sup,sportif,45,+ de 2/jour,bon pr la santé
+Pas.tt moment,noir,lait,Pas.sucré,sachet+vrac,t_variable,H,cadre sup,Pas.sportif,29,1/jour,Pas.bon pr la santé
+tt moment,vert,pur,Pas.sucré,sachet,t_variable,F,employé,Pas.sportif,45,+ de 2/jour,bon pr la santé
+Pas.tt moment,vert,pur,Pas.sucré,sachet+vrac,t_haut_de_gamme,F,employé,Pas.sportif,25,+ de 2/jour,bon pr la santé
+Pas.tt moment,noir,pur,sucré,sachet,t_marque_connue,F,employé,Pas.sportif,37,1/jour,bon pr la santé
+tt moment,vert,pur,Pas.sucré,vrac,t_haut_de_gamme,F,étudiant,sportif,25,+ de 2/jour,bon pr la santé
+Pas.tt moment,parfumé,lait,Pas.sucré,sachet,t_marque_connue,F,non actif,Pas.sportif,41,1/jour,bon pr la santé
+Pas.tt moment,noir,pur,Pas.sucré,sachet+vrac,t_marque_connue,F,employé,sportif,45,1/jour,bon pr la santé
+Pas.tt moment,parfumé,pur,Pas.sucré,sachet,t_MDD,F,étudiant,sportif,15,1/jour,bon pr la santé
+Pas.tt moment,parfumé,pur,Pas.sucré,sachet+vrac,t_variable,F,cadre sup,sportif,25,1/jour,bon pr la santé
+Pas.tt moment,parfumé,lait,Pas.sucré,sachet+vrac,t_variable,F,non actif,sportif,51,1/jour,bon pr la santé
+tt moment,parfumé,pur,Pas.sucré,sachet+vrac,t_variable,F,employé,Pas.sportif,50,+ de 2/jour,bon pr la santé
+Pas.tt moment,parfumé,pur,Pas.sucré,sachet,t_variable,F,cadre sup,sportif,38,3 à 6/sem,bon pr la santé
+Pas.tt moment,parfumé,lait,sucré,sachet,t_marque_connue,F,employé,Pas.sportif,25,1 à 2/sem,Pas.bon pr la santé
+Pas.tt moment,parfumé,pur,sucré,vrac,t_variable,F,cadre moyen,sportif,49,1/jour,bon pr la santé
+Pas.tt moment,parfumé,citron,Pas.sucré,sachet,t_marque_connue,F,non actif,Pas.sportif,52,+ de 2/jour,bon pr la santé
+tt moment,parfumé,lait,Pas.sucré,sachet+vrac,t_haut_de_gamme,F,ouvrier,Pas.sportif,40,+ de 2/jour,bon pr la santé
+Pas.tt moment,parfumé,pur,sucré,sachet+vrac,t_haut_de_gamme,F,étudiant,sportif,23,1/jour,bon pr la santé
+Pas.tt moment,parfumé,lait,Pas.sucré,sachet+vrac,t_marque_connue,F,employé,Pas.sportif,54,1/jour,bon pr la santé
+Pas.tt moment,vert,lait,sucré,sachet+vrac,t_variable,F,non actif,sportif,26,+ de 2/jour,Pas.bon pr la santé
+Pas.tt moment,parfumé,citron,Pas.sucré,sachet+vrac,t_variable,F,non actif,Pas.sportif,21,+ de 2/jour,bon pr la santé
+Pas.tt moment,parfumé,pur,sucré,sachet,t_marque_connue,F,employé,sportif,21,+ de 2/jour,bon pr la santé
+Pas.tt moment,parfumé,lait,Pas.sucré,sachet+vrac,t_variable,F,cadre moyen,sportif,50,+ de 2/jour,bon pr la santé
+tt moment,noir,pur,Pas.sucré,sachet,t_marque_connue,F,employé,Pas.sportif,40,+ de 2/jour,bon pr la santé
+tt moment,parfumé,lait,sucré,vrac,t_haut_de_gamme,F,cadre moyen,Pas.sportif,40,1/jour,bon pr la santé
+Pas.tt moment,parfumé,pur,sucré,sachet+vrac,t_haut_de_gamme,F,étudiant,Pas.sportif,21,1/jour,Pas.bon pr la santé
+Pas.tt moment,parfumé,pur,Pas.sucré,sachet,t_marque_connue,F,employé,sportif,31,+ de 2/jour,bon pr la santé
+tt moment,parfumé,pur,sucré,sachet+vrac,t_variable,H,étudiant,sportif,21,+ de 2/jour,Pas.bon pr la santé
+Pas.tt moment,parfumé,citron,sucré,sachet+vrac,t_variable,F,employé,Pas.sportif,24,3 à 6/sem,Pas.bon pr la santé
+tt moment,parfumé,pur,Pas.sucré,sachet+vrac,t_variable,F,étudiant,Pas.sportif,20,+ de 2/jour,bon pr la santé
+Pas.tt moment,parfumé,pur,Pas.sucré,sachet,t_marque_connue,H,cadre moyen,sportif,34,1/jour,bon pr la santé
+Pas.tt moment,parfumé,pur,Pas.sucré,vrac,t_variable,H,cadre moyen,sportif,33,3 à 6/sem,Pas.bon pr la santé
+Pas.tt moment,noir,lait,Pas.sucré,sachet,t_marque_connue,H,employé,Pas.sportif,24,+ de 2/jour,bon pr la santé
+Pas.tt moment,noir,pur,sucré,sachet,t_marque_connue,H,étudiant,sportif,25,1/jour,bon pr la santé
+Pas.tt moment,vert,lait,sucré,sachet,t_MDD,H,cadre sup,Pas.sportif,48,1 à 2/sem,bon pr la santé
+tt moment,parfumé,pur,sucré,sachet+vrac,t_variable,H,cadre sup,sportif,26,+ de 2/jour,bon pr la santé
+Pas.tt moment,parfumé,pur,sucré,sachet+vrac,t_variable,H,étudiant,sportif,21,1 à 2/sem,bon pr la santé
+Pas.tt moment,noir,pur,sucré,vrac,t_marque_connue,H,ouvrier,sportif,30,+ de 2/jour,bon pr la santé
+Pas.tt moment,vert,pur,sucré,sachet,t_marque_connue,H,cadre sup,sportif,40,1 à 2/sem,bon pr la santé
+Pas.tt moment,noir,lait,Pas.sucré,sachet,t_inconnu,H,cadre moyen,Pas.sportif,57,+ de 2/jour,bon pr la santé
+tt moment,parfumé,pur,sucré,sachet+vrac,t_variable,H,employé,sportif,29,3 à 6/sem,bon pr la santé
+tt moment,parfumé,pur,Pas.sucré,sachet+vrac,t_variable,F,autre actif,Pas.sportif,36,+ de 2/jour,bon pr la santé
+tt moment,parfumé,pur,sucré,sachet+vrac,t_haut_de_gamme,H,étudiant,sportif,25,3 à 6/sem,Pas.bon pr la santé
+tt moment,noir,lait,Pas.sucré,sachet+vrac,t_variable,F,étudiant,sportif,21,+ de 2/jour,Pas.bon pr la santé
+tt moment,parfumé,pur,sucré,sachet+vrac,t_haut_de_gamme,F,cadre sup,sportif,24,+ de 2/jour,Pas.bon pr la santé
+Pas.tt moment,noir,pur,sucré,sachet+vrac,t_haut_de_gamme,H,employé,sportif,25,3 à 6/sem,Pas.bon pr la santé
+Pas.tt moment,parfumé,lait,Pas.sucré,sachet+vrac,t_variable,F,non actif,Pas.sportif,89,+ de 2/jour,Pas.bon pr la santé
+Pas.tt moment,noir,pur,sucré,vrac,t_variable,F,non actif,Pas.sportif,90,+ de 2/jour,Pas.bon pr la santé
+Pas.tt moment,noir,pur,Pas.sucré,vrac,t_variable,H,cadre moyen,sportif,27,1 à 2/sem,Pas.bon pr la santé
+tt moment,parfumé,autre,sucré,sachet+vrac,t_variable,F,autre actif,Pas.sportif,42,+ de 2/jour,bon pr la santé
+Pas.tt moment,parfumé,autre,sucré,sachet,t_variable,H,cadre sup,Pas.sportif,46,1/jour,bon pr la santé
+Pas.tt moment,noir,pur,Pas.sucré,sachet,t_variable,H,étudiant,sportif,22,1 à 2/sem,bon pr la santé
+Pas.tt moment,parfumé,pur,sucré,sachet,t_variable,F,étudiant,sportif,21,1 à 2/sem,Pas.bon pr la santé
+Pas.tt moment,noir,pur,sucré,vrac,t_variable,H,cadre moyen,sportif,48,1 à 2/sem,Pas.bon pr la santé
+Pas.tt moment,noir,pur,Pas.sucré,vrac,t_variable,F,employé,sportif,44,3 à 6/sem,bon pr la santé
+tt moment,noir,pur,Pas.sucré,sachet+vrac,t_variable,F,étudiant,sportif,21,+ de 2/jour,bon pr la santé
+tt moment,parfumé,pur,Pas.sucré,sachet,t_variable,F,étudiant,sportif,21,1 à 2/sem,Pas.bon pr la santé
+tt moment,parfumé,pur,Pas.sucré,sachet,t_variable,H,non actif,sportif,21,+ de 2/jour,Pas.bon pr la santé
+tt moment,parfumé,pur,sucré,sachet,t_variable,F,étudiant,sportif,22,+ de 2/jour,Pas.bon pr la santé
+tt moment,parfumé,pur,Pas.sucré,sachet+vrac,t_variable,F,étudiant,sportif,20,+ de 2/jour,Pas.bon pr la santé
+Pas.tt moment,noir,citron,sucré,sachet,t_variable,F,autre actif,Pas.sportif,37,1 à 2/sem,bon pr la santé
+Pas.tt moment,parfumé,pur,sucré,sachet,t_marque_connue,H,cadre sup,Pas.sportif,26,1/jour,Pas.bon pr la santé
+Pas.tt moment,parfumé,pur,Pas.sucré,sachet,t_variable,F,autre actif,sportif,31,+ de 2/jour,Pas.bon pr la santé
+tt moment,parfumé,lait,sucré,vrac,t_variable,F,non actif,Pas.sportif,47,+ de 2/jour,bon pr la santé
+tt moment,noir,pur,Pas.sucré,sachet,t_haut_de_gamme,H,autre actif,Pas.sportif,27,1 à 2/sem,bon pr la santé
+Pas.tt moment,parfumé,lait,sucré,sachet,t_bas_de_gamme,H,non actif,sportif,60,3 à 6/sem,bon pr la santé
+Pas.tt moment,parfumé,lait,Pas.sucré,sachet,t_inconnu,H,cadre sup,sportif,34,1/jour,bon pr la santé
+tt moment,parfumé,pur,Pas.sucré,sachet+vrac,t_variable,F,étudiant,sportif,21,+ de 2/jour,Pas.bon pr la santé
+Pas.tt moment,parfumé,citron,sucré,sachet,t_bas_de_gamme,F,non actif,Pas.sportif,72,1 à 2/sem,bon pr la santé
+Pas.tt moment,parfumé,lait,sucré,sachet,t_marque_connue,F,non actif,sportif,53,+ de 2/jour,bon pr la santé
+tt moment,parfumé,lait,sucré,sachet,t_inconnu,F,autre actif,sportif,32,1/jour,bon pr la santé
+Pas.tt moment,parfumé,pur,Pas.sucré,sachet+vrac,t_variable,F,cadre sup,sportif,50,+ de 2/jour,bon pr la santé
+Pas.tt moment,vert,lait,Pas.sucré,sachet,t_variable,F,non actif,sportif,68,1 à 2/sem,bon pr la santé
+tt moment,vert,lait,Pas.sucré,sachet+vrac,t_haut_de_gamme,H,cadre sup,sportif,50,+ de 2/jour,Pas.bon pr la santé
+tt moment,parfumé,pur,sucré,sachet,t_variable,F,autre actif,Pas.sportif,36,1 à 2/sem,Pas.bon pr la santé
+tt moment,noir,citron,sucré,sachet,t_haut_de_gamme,F,non actif,Pas.sportif,73,+ de 2/jour,Pas.bon pr la santé
+Pas.tt moment,noir,lait,sucré,sachet,t_MDD,H,employé,sportif,41,1/jour,bon pr la santé
